@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi there, I'm Advik Vasanth 👋
 
-<!--
-**adivas292/adivas292** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a freshman undergraduate student focused on **Quantitative Finance**, **Software Engineering**, and **Data Science**. By bridging a strong foundational background in statistics and calculus with programmatic data pipelines, I build analytical tools to uncover insights within economic, real estate, and financial markets.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 Core Technical Toolkit
+
+*   **Languages**: Python (Core Syntax, Event-Driven Desktop Dev)
+*   **Data Science Stack**: Pandas, NumPy, Scikit-Learn (Linear & Logistic Regression)
+*   **Data Visualization**: Matplotlib, Seaborn, Tkinter GUI Layouts
+*   **Mathematical Foundations**: AP Calculus BC (Optimization & Gradients), AP Statistics (Hypothesis Testing, Distributions, Regression Analytics)
+
+---
+
+### 🚀 Highlighted Data Science Portfolios
+
+#### 🏠 [Washington State Real Estate Predictive Analytics Engine]([https://github.com/adivas292/washington-housing-predictive-engine])
+An end-to-end multivariate linear regression model built completely from scratch in Python to forecast residential housing valuations using physical property constraints.
+*   **Data Engineering**: Utilized dynamic Interquartile Range (IQR) filtering and natural log transformations (`np.log1p`) to mitigate extreme right-skewness, successfully optimizing target skewness from 0.73 down to a balanced -0.42.
+*   **Feature Optimization**: Engineered a custom `house_age` factor using vectorized NumPy logic to resolve structural date anomalies where unrenovated homes default to a year value of 0.
+*   **Statistical Validation**: Evaluated model performance ($R^2$: 0.3544, RMSE: $168,892.58) and constructed residual error plots to confirm homoscedasticity and validate standard linear assumptions.
+
+---
+
+### 📈 Current Learning Goals & Market Interests
+
+*   📈 **Quantitative Modeling**: Transitioning baseline regression models into time-series analysis for financial asset price forecasting.
+*   🗄️ **Data Ingestion**: Learning SQL (Structured Query Language) to pull and manipulate corporate fundamental data directly from large relational databases.
+*   🌿 **Macro/Eco Finance**: Exploring the structural financial impacts of carbon emission taxes on public sectoral equities.
+
+---
+
+### 🤝 Let's Connect!
+
+*   💼 **LinkedIn**: [://linkedin.com](YOUR_LINKEDIN_LINK_HERE)
+*   📬 **Email**: [advikv0292@gmail.com](mailto:advikv0292@gmail.com)
+*   🏹 *Active Applicant: Currently seeking Data Science, Software, and Quantitative Internships for Summer.*
