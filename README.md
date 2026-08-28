@@ -8,7 +8,7 @@ I am a freshman undergraduate student focused on **Quantitative Finance**, **Sof
 
 *   **Languages**: Python (Core Syntax, Event-Driven Desktop Dev)
 *   **Data Science Stack**: Pandas, NumPy, Scikit-Learn (Linear & Logistic Regression)
-*   **Data Visualization**: Matplotlib, Seaborn, Tkinter GUI Layouts
+*   **Data Visualization**: Matplotlib, Seaborn
 *   **Mathematical Foundations**: AP Calculus BC (Optimization & Gradients), AP Statistics (Hypothesis Testing, Distributions, Regression Analytics)
 
 ---
