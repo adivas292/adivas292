@@ -15,7 +15,7 @@ UCI Undergrad focused on Quant Finance, SWE, and Data Science. I combine math an
 
 ### 🚀 Highlighted Data Science Portfolios
 
-#### 🏠 [Washington State Real Estate Predictive Analytics Engine][(https://github.com)](https://github.com/adivas292/Data-Science-Portfolio/blob/main/Real_Estate_Engine.md)
+#### 🏠 [Washington State Real Estate Predictive Analytics Engine](https://github.com/adivas292/Data-Science-Portfolio/blob/main/Real_Estate_Engine.md)
 An end-to-end multivariate linear regression model built completely from scratch in Python to forecast residential housing valuations using physical property constraints.
 * **Data Engineering**: Utilized dynamic Interquartile Range (IQR) filtering and natural log transformations (`np.log1p`) to mitigate extreme right-skewness, successfully optimizing target skewness from 0.73 down to a balanced -0.42.
 * **Feature Optimization**: Engineered a custom `house_age` factor using vectorized NumPy logic to resolve structural date anomalies where unrenovated homes default to a year value of 0.
