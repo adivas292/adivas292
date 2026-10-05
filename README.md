@@ -35,6 +35,6 @@ A binary logistic regression classifier built using `scikit-learn` to predict co
 ---
 
 ### 🤝 Let's Connect!
-* 💼 **LinkedIn**: [linkedin.com](https://www.linkedin.com/in/advikvasanth/)
+* 💼 **LinkedIn**: [https://www.linkedin.com/in/advikvasanth/](https://www.linkedin.com/in/advikvasanth/)
 * 📬 **Email**: [advikv0292@gmail.com](mailto:advikv0292@gmail.com)
 * 🏹 *Active Applicant: Currently seeking Data Science, Software Engineering, and Quantitative Internships for the Summer 2027 cycle.*
