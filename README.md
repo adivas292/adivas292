@@ -28,9 +28,9 @@ A binary logistic regression classifier built to predict consumer demographic pr
 ---
 
 ### 📈 Current Learning Goals & Market Interests
-* 📈 **Quantitative Modeling**: Transitioning my baseline regression workflows into time-series analysis for financial asset price forecasting.
-* 🗄️ **Data Ingestion**: Learning SQL (Structured Query Language) right now to pull and clean corporate data straight from relational databases instead of just loading CSVs.
-* 🌿 **Macro/Eco Finance**: Exploring the structural financial impacts of carbon emission taxes on public sectoral equities.
+* 📈 **Quantitative Modeling**: Advancing from basic regression workflows to time-series analysis for financial asset price forecasting.
+* 🗄️ **Data Ingestion**: Learning SQL (Structured Query Language) to pull and clean data directly from relational databases instead of just loading CSVs.
+* 🤖 **Machine Learning Foundations**: Advancing from basic regression into parametric classification models and feature scaling (prepping for Statistical Methods for Data Analysis) to better handle real-world dataset imbalances and bias.
 
 ---
 
